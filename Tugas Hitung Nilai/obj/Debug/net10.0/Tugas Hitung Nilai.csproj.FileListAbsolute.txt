@@ -1,0 +1,14 @@
+D:\kelas-x-rpl\Tugas\Tugas Hitung Nilai\bin\Debug\net10.0\Tugas Hitung Nilai.exe
+D:\kelas-x-rpl\Tugas\Tugas Hitung Nilai\bin\Debug\net10.0\Tugas Hitung Nilai.deps.json
+D:\kelas-x-rpl\Tugas\Tugas Hitung Nilai\bin\Debug\net10.0\Tugas Hitung Nilai.runtimeconfig.json
+D:\kelas-x-rpl\Tugas\Tugas Hitung Nilai\bin\Debug\net10.0\Tugas Hitung Nilai.dll
+D:\kelas-x-rpl\Tugas\Tugas Hitung Nilai\bin\Debug\net10.0\Tugas Hitung Nilai.pdb
+D:\kelas-x-rpl\Tugas\Tugas Hitung Nilai\obj\Debug\net10.0\Tugas Hitung Nilai.GeneratedMSBuildEditorConfig.editorconfig
+D:\kelas-x-rpl\Tugas\Tugas Hitung Nilai\obj\Debug\net10.0\Tugas Hitung Nilai.AssemblyInfoInputs.cache
+D:\kelas-x-rpl\Tugas\Tugas Hitung Nilai\obj\Debug\net10.0\Tugas Hitung Nilai.AssemblyInfo.cs
+D:\kelas-x-rpl\Tugas\Tugas Hitung Nilai\obj\Debug\net10.0\Tugas Hitung Nilai.csproj.CoreCompileInputs.cache
+D:\kelas-x-rpl\Tugas\Tugas Hitung Nilai\obj\Debug\net10.0\Tugas Hitung Nilai.dll
+D:\kelas-x-rpl\Tugas\Tugas Hitung Nilai\obj\Debug\net10.0\refint\Tugas Hitung Nilai.dll
+D:\kelas-x-rpl\Tugas\Tugas Hitung Nilai\obj\Debug\net10.0\Tugas Hitung Nilai.pdb
+D:\kelas-x-rpl\Tugas\Tugas Hitung Nilai\obj\Debug\net10.0\Tugas Hitung Nilai.genruntimeconfig.cache
+D:\kelas-x-rpl\Tugas\Tugas Hitung Nilai\obj\Debug\net10.0\ref\Tugas Hitung Nilai.dll
